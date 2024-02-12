@@ -1,16 +1,29 @@
-title: Fahira Hameed
-#logo: /assets/img/headshot_circle.png
-description: DataAnalyst
-#show_downloads: true
+# Site settings
+title: Fahira Hameed, DataAnalyst
+logo: /assets/img/headshot_circle.png
+description: My personal log about my DataAnalytics work
+email: abdulfahi@gmail.com
+github_username:  fahiramaricar
+author: Fahira Hameed
+url: "https://fahiramaricar.github.io/"
+baseurl: "/portfolio"
+paginate: 5
+paginate_path: "/page/:num"
+timezone: America/Central
+show_downloads: false
+
+# SEO
+social:
+  name: Fahira Hameed
+  links:
+    - https://www.linkedin.com/in/fahira-hameed-55a6182b0/
+    - https://github.com/fahiramaricar/
+
+
 # Build settings
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-
-github_username:  fahiramaricar
-email: abdulfahi@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Welcome to Jekyll!

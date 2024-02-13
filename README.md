@@ -18,11 +18,10 @@ I'd love for you to dive into my portfolio and see how I can make data work magi
 ### Tableau Project
 ### Project Details
 #### An online retail store, client of TATA IQ, wants to analyze the major contributing factors affecting their revenue. They are also interested in viewing the metrics from both an operations and marketing perspective. In response to this challenge, we embarked on a journey to collect data and develop an interactive dashboard for data-driven decision-making.
-- Finance View: Delve into net sales, top-performing products country-wise and customers for sustainable growth.
+#### - Finance View: Delve into net sales, top-performing products country-wise and customers for sustainable growth.
 - Sales View: Analyze customer and product performance, focusing on net sales, gross margins, and costs to boost revenue and profitability.
 - Marketing View: Assess marketing effectiveness through gross margin, net profit and optimize strategies.
 -  Executive View: Gain strategic insights into market share, top customers/products, and revenue trends.
-### Project Video
 ### Presentation file
 ### Live Interactive Dashboard
 
@@ -30,12 +29,20 @@ I'd love for you to dive into my portfolio and see how I can make data work magi
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-####Created dynamic Excel reports analyzing the popular content categories
+#### Created dynamic Excel reports analyzing the popular content categories. Revealed key trends and strategic insights, aiding data-driven decision-making.
 ### Clickable link to view the project
 ### Excel Project
+![Excel and chart screenshot](/assets/img/bike_study.jpeg)
 #### Project details
-####Social Buzz, rapidly growing technology unicorn in the realm of social media and content creation, faced a big challenge. 
-
+#### Social Buzz, rapidly growing technology unicorn in the realm of social media and content creation, faced a big challenge. Due to their rapid growth and digital nature of their core product, the amount of data that they create, collect and must analyze is huge. In response to this challenge, we followed a structured process which involves:
+#### - Collecting appropriate datasets to work with and understanding its landscape
+- Cleaning and preparing data for analysis
+- Crafting sophisticated data models
+- Conducting in-depth analysis to extract valuable insights
+### Project Video
+### Presentation file
 
 ## Certificates & Achievements
-
+![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/bike_study.jpeg)

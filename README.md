@@ -11,7 +11,7 @@ I'd love for you to dive into my portfolio and see how I can make data work magi
 ## My Projects
 ### Business Insights for TATA
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![TATA Project](/assets/img/TATA.png)
 
 #### Designed a dynamic Tableau dashboard for Tata Insights and Quants as part of job simulation on the Forage platform, harnessing the power of data. The visualization helps them  understand the data and insights effectively helping them review their revenue data to prepare for the future. Empower your decisions with data-driven insights.
 ### Clickable link to view the project
@@ -19,15 +19,15 @@ I'd love for you to dive into my portfolio and see how I can make data work magi
 ### Project Details
 #### An online retail store, client of TATA IQ, wants to analyze the major contributing factors affecting their revenue. They are also interested in viewing the metrics from both an operations and marketing perspective. In response to this challenge, we embarked on a journey to collect data and develop an interactive dashboard for data-driven decision-making.
 #### - Finance View: Delve into net sales, top-performing products country-wise and customers for sustainable growth.
-- Sales View: Analyze customer and product performance, focusing on net sales, gross margins, and costs to boost revenue and profitability.
-- Marketing View: Assess marketing effectiveness through gross margin, net profit and optimize strategies.
--  Executive View: Gain strategic insights into market share, top customers/products, and revenue trends.
+#### - Sales View: Analyze customer and product performance, focusing on net sales, gross margins, and costs to boost revenue and profitability.
+#### - Marketing View: Assess marketing effectiveness through gross margin, net profit and optimize strategies.
+#### -  Executive View: Gain strategic insights into market share, top customers/products, and revenue trends.
 ### Presentation file
 ### Live Interactive Dashboard
 
 ### Social Media Content Performance Analysis
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Accenture Project](/assets/img/Accenture.png)
 
 #### Created dynamic Excel reports analyzing the popular content categories. Revealed key trends and strategic insights, aiding data-driven decision-making.
 ### Clickable link to view the project
@@ -36,9 +36,9 @@ I'd love for you to dive into my portfolio and see how I can make data work magi
 #### Project details
 #### Social Buzz, rapidly growing technology unicorn in the realm of social media and content creation, faced a big challenge. Due to their rapid growth and digital nature of their core product, the amount of data that they create, collect and must analyze is huge. In response to this challenge, we followed a structured process which involves:
 #### - Collecting appropriate datasets to work with and understanding its landscape
-- Cleaning and preparing data for analysis
-- Crafting sophisticated data models
-- Conducting in-depth analysis to extract valuable insights
+#### - Cleaning and preparing data for analysis
+#### - Crafting sophisticated data models
+#### - Conducting in-depth analysis to extract valuable insights
 ### Project Video
 ### Presentation file
 

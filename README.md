@@ -47,7 +47,14 @@
 
 <iframe src="https://drive.google.com/file/d/19HAvA-z2fVdBm-zprjs-8Za7SCvgFHfo/preview" width="100%" height="100%"></iframe>
 
-{.googleslide}
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/presentation/d/1F0DQTNPg3YG_By6LMGcgwT3icJ3eMhCiupAZm76CIfE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- Google embed ends -->
+</div>
 
 ![Presentation video](/assets/img/AccPresentation.mp4)
 ![Presentation file](/assets/img/AccPresentation.key)

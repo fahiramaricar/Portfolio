@@ -69,7 +69,7 @@
 
 ## Certificates & Achievements
 ![Data Analytics Badge](/assets/img/Badge.png)
-<object data="/assets/img/DataAnalytics.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="{{ site.url}}{{ site.baseurl}}/assets/img/DataAnalytics.pdf" width="1000" height="1000" type='application/pdf'></object>
 <object data="/assets/img/Accenture.pdf" width="1000" height="1000" type='application/pdf'></object>
 <object data="/assets/img/TATA.pdf" width="1000" height="1000" type='application/pdf'></object>
 

@@ -56,11 +56,10 @@
 <!-- Google embed ends -->
 </div>
 
-![Presentation video](/assets/img/AccPresentation.mp4)
-![Presentation file](/assets/img/AccPresentation.key)
 
 ## Certificates & Achievements
 ![Data Analytics Badge](/assets/img/Badge.png)
-![Data Analytics](/assets/img/DataAnalytics.pdf)
-![Accenture](/assets/img/Accenture.pdf)
-![TATA](/assets/img/TATA.pdf)
+<object data="/assets/img/DataAnalytics.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/assets/img/Accenture.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/assets/img/TATA.pdf" width="1000" height="1000" type='application/pdf'></object>
+

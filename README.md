@@ -44,6 +44,9 @@
 #### - Cleaning and preparing data for analysis
 #### - Crafting sophisticated data models
 #### - Conducting in-depth analysis to extract valuable insights
+
+<iframe src="https://drive.google.com/file/d/19HAvA-z2fVdBm-zprjs-8Za7SCvgFHfo/view" width="100%" height="100%"></iframe>
+
 {% include googleDrivePlayer.html id="19HAvA-z2fVdBm-zprjs-8Za7SCvgFHfo/view" %}
 ![Presentation video](/assets/img/AccPresentation.mp4)
 ![Presentation file](/assets/img/AccPresentation.key)

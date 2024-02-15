@@ -45,15 +45,6 @@
 #### - Crafting sophisticated data models
 #### - Conducting in-depth analysis to extract valuable insights
 {% include googleDrivePlayer.html id=19HAvA-z2fVdBm-zprjs-8Za7SCvgFHfo %}
-<div class="embed-container">
-  <iframe
-      width="700"
-      height="480"
-      src="https://drive.google.com/file/d/19HAvA-z2fVdBm-zprjs-8Za7SCvgFHfo"
-      frameborder="0"
-      allowfullscreen="true">
-  </iframe>
-</div>
 ![Presentation video](/assets/img/AccPresentation.mp4)
 ![Presentation file](/assets/img/AccPresentation.key)
 

@@ -21,10 +21,15 @@
 #### - Sales View: Analyze customer and product performance, focusing on net sales, gross margins, and costs to boost revenue and profitability.
 #### - Marketing View: Assess marketing effectiveness through gross margin, net profit and optimize strategies.
 #### -  Executive View: Gain strategic insights into market share, top customers/products, and revenue trends.
-![Year Revenue](/assets/img/YearRev.png)
-![Country Revenue](/assets/img/CountryRev.png)
-![Customer Revenue](/assets/img/CustRev.png)
-![Product Revenue](/assets/img/ProdRev.png)
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/presentation/d/1N4C7hb1lK0d72qdf1LWsOz3npQXc1L_FiAxhtYdK8zk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- Google embed ends -->
+</div>
+
 ### Live Interactive Dashboard
 
 ### Social Media Content Performance Analysis
@@ -34,10 +39,15 @@
 #### Created dynamic Excel reports analyzing the popular content categories. Revealed key trends and strategic insights, aiding data-driven decision-making.
 ### Clickable link to view the project
 ### Excel Project
-![Excel screenshot](/assets/img/AccTable.png)
-![Excel screenshot](/assets/img/AccTop5.png)
-![chart screenshot](/assets/img/AccBar.png)
-![chart screenshot](/assets/img/AccPie.png)
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/presentation/d/1nN7Ce_xeV3hbrHgzTDzO59d5UONYys6PIgz-rAm4Wto/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- Google embed ends -->
+</div>
+
 ### Project details
 #### Social Buzz, rapidly growing technology unicorn in the realm of social media and content creation, faced a big challenge. Due to their rapid growth and digital nature of their core product, the amount of data that they create, collect and must analyze is huge. In response to this challenge, we followed a structured process which involves:
 #### - Collecting appropriate datasets to work with and understanding its landscape

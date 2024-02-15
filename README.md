@@ -1,5 +1,5 @@
 # About me
-#### Hey there! I'm a passionate data analyst with a talent for turning numbers into actionable insights. I'm well-versed in Excel, Power BI, SQL and Tableau and I'm here to help you make sense of your data. As a graduate with a degree in Computer Science with the recent Google Data Analytics certificate under my belt and a passion for analyzing complex datasets, my true passion lies in data analysis. Even though I haven't worked in a big company yet, I've taken on some pretty cool business projects, and I've put them all in my portfolio for you to check out.Take a peek at my real-world projects—they're like puzzle pieces that reveal smart solutions. I make complex data easy to understand, even though I'm still growing in this field. ####I'd love for you to dive into my portfolio and see how I can make data work magic for your organization. Let's connect and start our data adventure together!
+#### Hey there! I'm a passionate data analyst with a talent for turning numbers into actionable insights. I'm well-versed in Excel, Power BI, SQL and Tableau and I'm here to help you make sense of your data. As a graduate with a degree in Computer Science with the recent Google Data Analytics certificate under my belt and a passion for analyzing complex datasets, my true passion lies in data analysis. Even though I haven't worked in a big company yet, I've taken on some pretty cool business projects, and I've put them all in my portfolio for you to check out.Take a peek at my real-world projects—they're like puzzle pieces that reveal smart solutions. I make complex data easy to understand, even though I'm still growing in this field. I'd love for you to dive into my portfolio and see how I can make data work magic for your organization. Let's connect and start our data adventure together!
 
 
 
@@ -39,6 +39,13 @@
 #### Created dynamic Excel reports analyzing the popular content categories. Revealed key trends and strategic insights, aiding data-driven decision-making.
 ### Clickable link to view the project
 ### Excel Project
+### Project details
+#### Social Buzz, rapidly growing technology unicorn in the realm of social media and content creation, faced a big challenge. Due to their rapid growth and digital nature of their core product, the amount of data that they create, collect and must analyze is huge. In response to this challenge, we followed a structured process which involves:
+#### - Collecting appropriate datasets to work with and understanding its landscape
+#### - Cleaning and preparing data for analysis
+#### - Crafting sophisticated data models
+#### - Conducting in-depth analysis to extract valuable insights
+
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
@@ -48,12 +55,6 @@
 <!-- Google embed ends -->
 </div>
 
-### Project details
-#### Social Buzz, rapidly growing technology unicorn in the realm of social media and content creation, faced a big challenge. Due to their rapid growth and digital nature of their core product, the amount of data that they create, collect and must analyze is huge. In response to this challenge, we followed a structured process which involves:
-#### - Collecting appropriate datasets to work with and understanding its landscape
-#### - Cleaning and preparing data for analysis
-#### - Crafting sophisticated data models
-#### - Conducting in-depth analysis to extract valuable insights
 
 <iframe src="https://drive.google.com/file/d/19HAvA-z2fVdBm-zprjs-8Za7SCvgFHfo/preview" width="100%" height="100%"></iframe>
 
@@ -71,5 +72,5 @@
 ![Data Analytics Badge](/assets/img/Badge.png)
 <object data="{{ site.url}}{{ site.baseurl}}/assets/img/DataAnalytics.pdf" width="500" height="500" type='application/pdf'></object>
 <object data="{{ site.url}}{{ site.baseurl}}/assets/img/Accenture.pdf" width="500" height="500" type='application/pdf'></object>
-<object data="{{ site.url}}{{ site.baseurl}}/assets/img/TATA.pdf" width="500" height="500" type='application/pdf'></object>
+<object data="{{ site.url}}{{ site.baseurl}}/assets/img/Tata.pdf" width="500" height="500" type='application/pdf'></object>
 

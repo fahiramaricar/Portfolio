@@ -30,6 +30,7 @@
 
 ### Live Interactive Dashboard
 <iframe src="https://public.tableau.com/views/OnlineRetailStoreSalesInsight/Dashboard1?:language=enUS&:sid=&:display_count=n&:origin=viz_share_link&:embed=true" width = '650' height = '450'></iframe>
+<object data="{{ site.url}}{{ site.baseurl}}/assets/img/OnlineRetailStoreSalesInsight.twbx" width="500" height="500" type='application/pdf'></object>
 
 
 ### Social Media Content Performance Analysis

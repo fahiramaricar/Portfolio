@@ -19,6 +19,9 @@
 #### - Sales View: Analyze customer and product performance, focusing on net sales, gross margins, and costs to boost revenue and profitability.
 #### - Marketing View: Assess marketing effectiveness through gross margin, net profit and optimize strategies.
 #### -  Executive View: Gain strategic insights into market share, top customers/products, and revenue trends.
+
+<a href="https://public.tableau.com/views/OnlineRetailStoreSalesInsight/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">###Tableau Interactive Dashboard</a>
+
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
@@ -27,9 +30,6 @@
   <iframe src="https://docs.google.com/presentation/d/1N4C7hb1lK0d72qdf1LWsOz3npQXc1L_FiAxhtYdK8zk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <!-- Google embed ends -->
 </div>
-
-### Tableau public link
-<a href="https://public.tableau.com/views/OnlineRetailStoreSalesInsight/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">click here</a>
 
 
 ### Social Media Content Performance Analysis

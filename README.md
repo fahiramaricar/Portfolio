@@ -28,9 +28,8 @@
 <!-- Google embed ends -->
 </div>
 
-### Live Interactive Dashboard
-<iframe src="https://public.tableau.com/views/OnlineRetailStoreSalesInsight/Dashboard1?:language=enUS&:sid=&:display_count=n&:origin=viz_share_link&:embed=true" width = '650' height = '450'></iframe>
-<object data="{{ site.url}}{{ site.baseurl}}/assets/img/OnlineRetailStoreSalesInsight.twbx" width="500" height="500" type='application/pdf'></object>
+### Tableau public link
+<a href="https://public.tableau.com/views/OnlineRetailStoreSalesInsight/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">click here</a>
 
 
 ### Social Media Content Performance Analysis

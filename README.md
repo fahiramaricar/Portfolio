@@ -20,7 +20,7 @@
 #### - Marketing View: Assess marketing effectiveness through gross margin, net profit and optimize strategies.
 #### -  Executive View: Gain strategic insights into market share, top customers/products, and revenue trends.
 
-###<a href="https://public.tableau.com/views/OnlineRetailStoreSalesInsight/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">Tableau Interactive Dashboard</a>
+<a href="https://public.tableau.com/views/OnlineRetailStoreSalesInsight/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">Tableau Interactive Dashboard</a>
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}

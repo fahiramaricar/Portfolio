@@ -18,6 +18,8 @@
     <link rel="stylesheet" href="assets/link/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/link/owl.theme.default.min.css">
     <link rel="stylesheet" href="assets/link/bootstrap-icons.css">
+   <!-- Bootstrap Icons CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <style>
       .contact-box p {
@@ -592,8 +594,8 @@
               </div>
               <div class="col-12">
                 <h6 class="fs-24 font-manrope mb-14 mt-xl-80 mt-40 fw-800 text-gray-800">Live Interactive Dashboard</h6>
-                <div class="ratio ratio-16x9">
-                  <iframe src="https://public.tableau.com/views/OnlineRetailStoreSalesInsight/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" title="Business Insights 360" allowfullscreen=""></iframe>
+                <div class="ratio ratio-16x9" style="overflow-y: auto;">
+                  <div id="tableauViz"></div>
                 </div>
               </div>
             </div>
@@ -623,6 +625,20 @@
     <script src="assets/js/navbar.js"></script>
     <script src="assets/js/owl/owl.carousel.min.js"></script>
     <script src="assets/js/index.bundle.min.js"></script>
+
+    <!-- To load tableau-->
+    <script src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+    <script>
+      var containerDiv = document.getElementById("tableauViz");
+      var url = "https://public.tableau.com/views/BusinessInsightsforTATA/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link";
+      var options = {
+        hideTabs: true,
+        width: "100%",
+        height: "1200px"
+      };
+      var viz = new tableau.Viz(containerDiv, url, options);
+    </script>    
+
     <script>
       $(document).on('click', '.play-bt', function(e) {
         var video_url = $(this).attr('data-video-url');

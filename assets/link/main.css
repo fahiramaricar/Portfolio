@@ -45197,7 +45197,7 @@ ol.lower-alpha {
 }
 
 .banner-section {
-  background-image: url("https://files.codebasics.io/v3/images-webp/banner-bg.webp");
+  background-image: url("../img/background/banner-bg.webp");
   background-repeat: no-repeat;
   background-color: #EFF0FE;
   background-size: inherit;
@@ -45226,7 +45226,7 @@ ol.lower-alpha {
 }
 .banner-section .banner-content .banner-text .upscale::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/banner-line.webp") no-repeat;
+  background: url("../img/background/banner-line.webp") no-repeat;
   height: auto;
   width: 100%;
   position: absolute;
@@ -45322,7 +45322,7 @@ ol.lower-alpha {
 }
 .our-courses-section .heading-center .main_title::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat center;
+  background: url("../img/background/heading-center-line.webp") no-repeat center;
   height: auto;
   width: 100%;
   position: absolute;
@@ -45341,7 +45341,7 @@ ol.lower-alpha {
 }
 .our-courses-section .heading-center .main_title_white::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat center;
+  background: url("../img/background/heading-center-line.webp") no-repeat center;
   height: auto;
   width: 100%;
   position: absolute;
@@ -45401,7 +45401,7 @@ ol.lower-alpha {
   z-index: 1;
 }
 .tech-section .tech-bg {
-  background-image: url("https://files.codebasics.io/v3/images-webp/tech-bg.webp");
+  background-image: url("../img/background/tech-bg.webp");
   border-radius: 60px;
   width: 100%;
   height: 684px;
@@ -45444,7 +45444,7 @@ ol.lower-alpha {
 }
 .our-users-section .heading-left .main_title::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-left-line.webp") no-repeat;
+  background: url("../img/background/heading-left-line.webp") no-repeat;
   height: auto;
   width: 100%;
   position: absolute;
@@ -45455,7 +45455,7 @@ ol.lower-alpha {
   z-index: -1;
 }
 .our-users-section .user-coursel .video-bgs {
-  background-image: url("https://files.codebasics.io/v3/images-webp/video-bg.webp");
+  background-image: url("../img/background/video-bg.webp");
   background-repeat: no-repeat;
   background-size: contain;
   height: auto;
@@ -45506,7 +45506,7 @@ ol.lower-alpha {
   color: #6772E5;
 }
 .our-users-section .user-coursel .testimonial-bg {
-  background-image: url("https://files.codebasics.io/v3/images-webp/testimonial-bg.webp");
+  background-image: url("../img/background/testimonial-bg.webp");
   background-repeat: no-repeat;
   background-size: auto;
   background-position: top center;
@@ -45582,7 +45582,7 @@ ol.lower-alpha {
 }
 .free-courses-section .heading-center .main_title::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat center;
+  background: url("../img/background/heading-center-line.webp") no-repeat center;
   height: auto;
   width: 100%;
   position: absolute;
@@ -45601,7 +45601,7 @@ ol.lower-alpha {
 }
 .free-courses-section .heading-center .main_title_white::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat center;
+  background: url("../img/background/heading-center-line.webp") no-repeat center;
   height: auto;
   width: 100%;
   position: absolute;
@@ -45694,7 +45694,7 @@ ol.lower-alpha {
 }
 
 .students-section {
-  background-image: url("https://files.codebasics.io/v3/images-webp/students-bg.webp");
+  background-image: url("../img/background/students-bg.webp");
   background-repeat: no-repeat;
   background-position: top center;
   height: 491px;
@@ -45720,7 +45720,7 @@ ol.lower-alpha {
 }
 .students-section .heading-left .main_title::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-left-line.webp") no-repeat;
+  background: url("../img/background/heading-left-line.webp") no-repeat;
   height: auto;
   width: 100%;
   position: absolute;
@@ -45754,7 +45754,7 @@ ol.lower-alpha {
 }
 .teching-section .heading-center .main_title::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat center;
+  background: url("../img/background/heading-center-line.webp") no-repeat center;
   height: auto;
   width: 100%;
   position: absolute;
@@ -45773,7 +45773,7 @@ ol.lower-alpha {
 }
 .teching-section .heading-center .main_title_white::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat center;
+  background: url("../img/background/heading-center-line.webp") no-repeat center;
   height: auto;
   width: 100%;
   position: absolute;
@@ -45799,7 +45799,7 @@ ol.lower-alpha {
 }
 
 .youtube-section {
-  background-image: url("https://files.codebasics.io/v3/images-webp/youtube-bg.webp");
+  background-image: url("../img/background/youtube-bg.webp");
   background-repeat: no-repeat;
   background-position: top center;
   height: 704px;
@@ -45825,7 +45825,7 @@ ol.lower-alpha {
 }
 .youtube-section .heading-left .main_title::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-left-line.webp") no-repeat;
+  background: url("../img/background/heading-left-line.webp") no-repeat;
   height: auto;
   width: 100%;
   position: absolute;
@@ -45848,15 +45848,15 @@ ol.lower-alpha {
   position: relative;
 }
 .youtube-section .youtube-thumb.youtube-thumbbg1 {
-  background-image: url("https://files.codebasics.io/v3/images-webp/youtube-thumbbg1.webp");
+  background-image: url("../img/background/youtube-thumbbg1.webp");
   background-repeat: no-repeat;
 }
 .youtube-section .youtube-thumb.youtube-thumbbg2 {
-  background-image: url("https://files.codebasics.io/v3/images-webp/youtube-thumbbg2.webp");
+  background-image: url("../img/background/youtube-thumbbg2.webp");
   background-repeat: no-repeat;
 }
 .youtube-section .youtube-thumb.youtube-thumbbg3 {
-  background-image: url("https://files.codebasics.io/v3/images-webp/youtube-thumbbg3.webp");
+  background-image: url("../img/background/youtube-thumbbg3.webp");
   background-repeat: no-repeat;
 }
 .youtube-section .youtube-thumb .youtube-img {
@@ -45890,7 +45890,7 @@ ol.lower-alpha {
 
 .footer-section {
   background: #131022;
-  background-image: url("https://files.codebasics.io/v3/images-webp/footer-map.webp");
+  background-image: url("../img/background/footer-map.webp");
   background-repeat: no-repeat;
   background-position: center right;
   position: relative;
@@ -46534,7 +46534,7 @@ ol.lower-alpha {
 }
 .bootcamp_wrapper_section .heading-center .main_title::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat center;
+  background: url("../img/background/heading-center-line.webp") no-repeat center;
   height: auto;
   width: 100%;
   position: absolute;
@@ -46553,7 +46553,7 @@ ol.lower-alpha {
 }
 .bootcamp_wrapper_section .heading-center .main_title_white::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat center;
+  background: url("../img/background/heading-center-line.webp") no-repeat center;
   height: auto;
   width: 100%;
   position: absolute;
@@ -46727,7 +46727,7 @@ ol.lower-alpha {
 }
 .success_stories_home .success_stories_wrapper .heading-left .main_title::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-left-line.webp") no-repeat;
+  background: url("../img/background/heading-left-line.webp") no-repeat;
   height: auto;
   width: 100%;
   position: absolute;
@@ -47546,7 +47546,7 @@ ol.lower-alpha {
 
 .details_creator .author_one {
   min-height: 300px;
-  background-image: url("https://files.codebasics.io/v3/images-webp/course_author_bg_1.webp");
+  background-image: url("../img/background/course_author_bg_1.webp");
   background-repeat: no-repeat;
   background-size: contain;
   padding: 30px 40px;
@@ -47557,7 +47557,7 @@ ol.lower-alpha {
 }
 .details_creator .author_two {
   min-height: 300px;
-  background-image: url("https://files.codebasics.io/v3/images-webp/course_author_bg_2.webp");
+  background-image: url("../img/background/course_author_bg_2.webp");
   background-repeat: no-repeat;
   background-size: contain;
   padding: 30px 40px;
@@ -47733,7 +47733,7 @@ ol.lower-alpha {
 }
 
 .authentication {
-  background-image: url("https://files.codebasics.io/v3/images-webp/login_bg.webp");
+  background-image: url("../img/background/login_bg.webp");
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
@@ -48184,7 +48184,7 @@ a:hover .event-wrapper {
   }
 }
 .current_challenge {
-  background-image: url("https://files.codebasics.io/v3/images-webp/challenge_bg.webp");
+  background-image: url("../img/background/challenge_bg.webp");
   min-height: 160px;
   background-repeat: no-repeat;
   background-position: top left;
@@ -48202,7 +48202,7 @@ a:hover .event-wrapper {
 }
 
 .winner_wrapper {
-  background-image: url("https://files.codebasics.io/v3/images-webp/winners-bg.webp");
+  background-image: url("../img/background/winners-bg.webp");
   background-repeat: no-repeat;
   background-position: top left;
   padding: 30px;
@@ -48473,7 +48473,7 @@ a:hover .event-wrapper {
 }
 .success_stories_section .success_stories_wrapper .heading-center .main_title::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat center;
+  background: url("../img/background/heading-center-line.webp") no-repeat center;
   height: auto;
   width: 100%;
   position: absolute;
@@ -48492,7 +48492,7 @@ a:hover .event-wrapper {
 }
 .success_stories_section .success_stories_wrapper .heading-center .main_title_white::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat center;
+  background: url("../img/background/heading-center-line.webp") no-repeat center;
   height: auto;
   width: 100%;
   position: absolute;
@@ -49349,7 +49349,7 @@ a:hover .event-wrapper {
 }
 .how_we_teach_wrapper .learn_wrapper {
   position: relative;
-  background-image: url("https://files.codebasics.io/v3/images-webp/how-we-teach/learn_bg.webp");
+  background-image: url("../img/background/learn_bg.webp");
   background-position: top right;
   background-repeat: no-repeat;
 }
@@ -49373,7 +49373,7 @@ a:hover .event-wrapper {
 }
 .how_we_teach_wrapper .engage_wrapper {
   position: relative;
-  background-image: url("https://files.codebasics.io/v3/images-webp/how-we-teach/engage-bg.webp");
+  background-image: url("../img/background/engage-bg.webp");
   background-position: top left;
   background-repeat: no-repeat;
 }
@@ -49397,7 +49397,7 @@ a:hover .event-wrapper {
 }
 .how_we_teach_wrapper .getchallenge_wrapper {
   position: relative;
-  background-image: url("https://files.codebasics.io/v3/images-webp/how-we-teach/get-challenge-bg.webp");
+  background-image: url("../img/background/get-challenge-bg.webp");
   background-position: top right;
   background-repeat: no-repeat;
 }
@@ -49421,7 +49421,7 @@ a:hover .event-wrapper {
 }
 .how_we_teach_wrapper .getjobready_wrapper {
   position: relative;
-  background-image: url("https://files.codebasics.io/v3/images-webp/how-we-teach/get-job-ready-bg.webp");
+  background-image: url("../img/background/get-job-ready-bg.webp");
   background-position: top left;
   background-repeat: no-repeat;
 }
@@ -49604,7 +49604,7 @@ a:hover .event-wrapper {
 }
 .author_bio .auth_title h2::after, .author_bio .auth_title .h2::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat left;
+  background: url("../img/background/heading-center-line.webp") no-repeat left;
   height: 18px;
   width: 100%;
   position: absolute;
@@ -49683,7 +49683,7 @@ a:hover .event-wrapper {
   top: 0;
   background-color: #E2E5F1;
   position: absolute;
-  background-image: url(https://files.codebasics.io/v3/images-webp/bootcamp/bootcamp_small_path.webp);
+  background-image: url(../img/background/bootcamp_small_path.webp);
 }
 @media (min-width: 1200px) {
   .bootcamp_intro_wrapper .bootcamp_summery .card .card-body .bootcamp_timeline::before {
@@ -50631,7 +50631,7 @@ a:hover .event-wrapper {
 }
 .bootcamp-heading-left .main_title::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-left-line.webp") no-repeat;
+  background: url("../img/background/heading-left-line.webp") no-repeat;
   height: auto;
   width: 100%;
   position: absolute;
@@ -50670,7 +50670,7 @@ a:hover .event-wrapper {
 }
 .bootcamp-heading-center .main_title::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat center;
+  background: url("../img/background/heading-center-line.webp") no-repeat center;
   height: auto;
   width: 100%;
   position: absolute;
@@ -50689,7 +50689,7 @@ a:hover .event-wrapper {
 }
 .bootcamp-heading-center .main_title_white::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat center;
+  background: url("../img/background/heading-center-line.webp") no-repeat center;
   height: auto;
   width: 100%;
   position: absolute;
@@ -50852,7 +50852,7 @@ a:hover .event-wrapper {
 }
 .overview_wrapper .bootcamp-heading-center .main_title::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat center;
+  background: url("../img/background/heading-center-line.webp") no-repeat center;
   height: auto;
   width: 100%;
   position: absolute;
@@ -50871,7 +50871,7 @@ a:hover .event-wrapper {
 }
 .overview_wrapper .bootcamp-heading-center .main_title_white::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat center;
+  background: url("../img/background/heading-center-line.webp") no-repeat center;
   height: auto;
   width: 100%;
   position: absolute;
@@ -51759,7 +51759,7 @@ a:hover .event-wrapper {
   position: absolute;
   top: -24px;
   left: 0;
-  background: url("https://files.codebasics.io/v3/images/champions-heading.webp");
+  background: url("../img/background/champions-heading.webp");
   background-repeat: no-repeat;
   background-position: left top;
   width: 100%;
@@ -52792,7 +52792,7 @@ a:hover .event-wrapper {
 }
 
 .congratulation_wrapper {
-  background-image: url("https://files.codebasics.io/v3/images-webp/login_bg.webp");
+  background-image: url("../img/background/login_bg.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -52826,7 +52826,7 @@ a:hover .event-wrapper {
 }
 
 .congratulation_bootcamp_wrapper {
-  background-image: url("https://files.codebasics.io/v3/images-webp/login_bg.webp");
+  background-image: url("../img/background/login_bg.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -53211,7 +53211,7 @@ a:hover .event-wrapper {
 }
 
 .portfolio-about-section {
-  background: url(https://files.codebasics.io/v3/images-webp/portfolio/portfoli-about-bg.webp);
+  background: url(../img/background/portfoli-about-bg.webp);
   background-repeat: no-repeat;
   background-position: top left;
   height: auto;
@@ -53456,7 +53456,7 @@ a:hover .event-wrapper {
 }
 
 .award-section {
-  background: url(https://files.codebasics.io/v3/images-webp/portfolio/awards-bg.webp);
+  background: url(../img/background/awards-bg.webp);
   background-position: bottom right;
   background-repeat: no-repeat;
   padding-bottom: 260px;
@@ -53581,10 +53581,10 @@ a:hover .event-wrapper {
 }
 
 .portfoli-footer-section {
-  background: url(https://files.codebasics.io/v3/images-webp/portfolio/footer-bg1.webp);
+  background: url(../img/background/footer-bg1.webp)
 }
 .portfoli-footer-section .contact-me {
-  background: url(https://files.codebasics.io/v3/images/portfolio/footer-bg.png);
+  background: url(../img/background/footer-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 16px;
@@ -54876,7 +54876,7 @@ div:where(.swal2-container) div:where(.swal2-popup) {
 }
 .no-subtitle.heading-center .main_title::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat center;
+  background: url("../img/background/heading-center-line.webp") no-repeat center;
   height: auto;
   width: 100%;
   position: absolute;
@@ -54903,7 +54903,7 @@ div:where(.swal2-container) div:where(.swal2-popup) {
 }
 .no-subtitle.heading-center .main_title_white::after {
   content: "";
-  background: url("https://files.codebasics.io/v3/images-webp/heading-center-line.webp") no-repeat center;
+  background: url("../img/background/heading-center-line.webp") no-repeat center;
   height: auto;
   width: 100%;
   position: absolute;

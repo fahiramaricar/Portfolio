@@ -715,7 +715,9 @@
           <div class="col-12">
             <h6 class="fs-24 font-manrope mb-14 mt-xl-80 mt-40 fw-800 text-gray-800">Live Interactive Dashboard</h6>
             <div class="ratio ratio-16x9" style="overflow-y: auto;">
-              <div id="tableauViz1"></div>
+              <div id="tableauViz1">
+                <iframe title="Titanic" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDY0ZWU1NjEtZTNhNS00ZmI3LTk1N2EtMTFjY2U1M2FlMTNkIiwidCI6Ijk2NzM3MjYwLTM4YzYtNGUzZi05N2E0LTcyNWJkYzBjYTZiZSJ9" frameborder="0" allowFullScreen="true"></iframe>
+              </div>
             </div>
           </div>
         </div>
@@ -762,31 +764,6 @@
       };
       var viz = new tableau.Viz(containerDiv, url, options);
     </script>    
-
-    <!-- To load PowerBi-->
-    <script src="https://microsoft.github.io/PowerBI-JavaScript/demo/node_modules/powerbi-client/dist/powerbi.min.js"></script>
-    <script>
-      var embedConfig = {
-          type: 'report',
-          id: 'reportId',
-          embedUrl: 'https://app.powerbi.com/reportEmbed?reportId=reportId',
-          accessToken: 'embedToken',
-          tokenType: models.TokenType.Embed,
-          permissions: models.Permissions.All,
-          settings: {
-              panes: {
-                  filters: {
-                      expanded: false,
-                      visible: true
-                  }
-              }
-          }
-      };
-  
-      var reportContainer = document.getElementById('tableauViz1');
-      var report = powerbi.embed(reportContainer, embedConfig);
-  </script>
-  
 
     <script>
       $(document).on('click', '.play-bt', function(e) {
